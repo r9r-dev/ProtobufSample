@@ -12,3 +12,9 @@ Simple server using gRPC and Topshelf for self hosting in Windows as a service.
 - Target for .Net Framework 4.7.1
 
 logs are saved in logs.log using nlog
+
+## Credits
+- Protocol Buffers : https://developers.google.com/protocol-buffers/
+- gRPC : https://grpc.io/
+- NLog : http://nlog-project.org/
+- Topshelf : http://topshelf-project.com/
