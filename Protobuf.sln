@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9DBFDEE6-3E43-42B7-AFC5-577D1EFE3850}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rlcx.Protobuf.Examples", "rlcx.Protobuf.Examples\rlcx.Protobuf.Examples.csproj", "{F59330F5-F862-494A-9B28-45C57A3B0D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{BAB9C3DA-6E9D-4D0D-88B6-B65219BFBEB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBFDEE6-3E43-42B7-AFC5-577D1EFE3850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBFDEE6-3E43-42B7-AFC5-577D1EFE3850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBFDEE6-3E43-42B7-AFC5-577D1EFE3850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBFDEE6-3E43-42B7-AFC5-577D1EFE3850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F59330F5-F862-494A-9B28-45C57A3B0D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F59330F5-F862-494A-9B28-45C57A3B0D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F59330F5-F862-494A-9B28-45C57A3B0D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F59330F5-F862-494A-9B28-45C57A3B0D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB9C3DA-6E9D-4D0D-88B6-B65219BFBEB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB9C3DA-6E9D-4D0D-88B6-B65219BFBEB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB9C3DA-6E9D-4D0D-88B6-B65219BFBEB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB9C3DA-6E9D-4D0D-88B6-B65219BFBEB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96F7AAFE-ED2F-41F8-BF31-74027F72D8AE}
+	EndGlobalSection
+EndGlobal
